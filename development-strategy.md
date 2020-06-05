@@ -1,16 +1,10 @@
 # Development Strategy
 
-> `name-of-project`
+> `duck-duck-clone`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+duck-duck website
 
-## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
 
 ## 0. Set-Up
 
@@ -22,32 +16,59 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. css,header
 
-__full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+css file,clone the repo
 
 ### HTML
 
-what did you change in the HTML and why?
+header,footer
 
 ### CSS
 
-what did you change in the CSS and why?
+background-color
+## 2.first-section
 
-## 2. ...
+### Repo
 
-...
+image
 
-...
+### HTML
 
-## Finishing Touches
+1st section +image
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+### CSS
+
+border+background-color+font-size
+
+
+## 3.second-section
+
+### Repo
+
+image
+
+### HTML
+
+2ed section +image
+
+### CSS
+
+border+background-color+font-size
+
+## 4.thrid-section
+
+### Repo
+
+image+intro
+
+### HTML
+
+3th section +image
+
+### CSS
+
+border+background-color+font-size
